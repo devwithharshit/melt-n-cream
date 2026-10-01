@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790795309921,
+      "tag": "0000_melt_n_cream_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790821676738,
+      "tag": "0001_upi_payment_reference",
+      "breakpoints": true
+    }
+  ]
+}
